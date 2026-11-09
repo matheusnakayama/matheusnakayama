@@ -11,13 +11,9 @@ Estou em busca de aprender coisas novas, desenvolver minhas habilidades e conqui
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=ff79c6"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusnakayama&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=ff79c6"/>
 
-<a href="https://github.com/SEU_USUARIO">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=dracula&title_color=ff79c6"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnakayama&layout=compact&langs_count=8&theme=dracula&title_color=ff79c6"/>
 
 </div>
 
@@ -35,12 +31,10 @@ Estou em busca de aprender coisas novas, desenvolver minhas habilidades e conqui
 
 <div align="left">
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/matheusnakayama">
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+
 <a href="mailto:SEU_EMAIL">
   <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
